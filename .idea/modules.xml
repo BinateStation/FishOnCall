@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fishoncall.iml" filepath="$PROJECT_DIR$/Fishoncall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fishoncall/fishoncall.iml" filepath="$PROJECT_DIR$/fishoncall/fishoncall.iml" />
+    </modules>
+  </component>
+</project>
